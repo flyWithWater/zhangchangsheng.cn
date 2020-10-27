@@ -3,7 +3,7 @@ layout: home
 published: true
 ---
 
-博客文章列表                   <a href="about.md">关于</a>
+博客文章列表                   <a href="../about">关于</a>
 
 <a href="C语言.jpg">C 语言</a>
 
@@ -71,13 +71,59 @@ published: true
 
 ## Android:
 
+<a href="../_posts/Android/触摸事件传递机制.jpg">触摸事件传递机制</a>
 
+<a href="../_posts/Android/属性动画.jpg">属性动画</a>
+
+<a href="../_posts/Android/自定义View.jpg">自定义View</a>
+
+<a href="../_posts/Android/android中的多线程.jpg">Android中的多线程</a>
+
+<a href="../_posts/Android/Android App 多进程">Android App中的多进程</a>
+
+<a href="../_posts/Android/性能优化.jpg">性能优化</a>
+
+<a href="../_posts/Android/性能优化--启动时间性能优化.jpg">启动时间优化</a>
+
+<a href="../_posts/Android/Sophix热修复框架原理.jpg">Sophix热修复框架原理</a>
+
+
+
+NDK：
+
+<a href="../_posts/NDK JNI.jpg">NDK /JNI</a>
+
+
+
+
+
+
+
+## RXJava
+
+<a href="../_posts/RxJava/RxJava.jpg">Rx java</a>
 
 
 
 ## IOS:
 
+<a href="../_posts/IOS/Objective C.jpg">Objective C</a>
 
+<a href="../_posts/IOS/IOS App.jpg">IOS app开发</a>
+
+
+
+
+
+## 微信小程序：
+
+<a href="../_posts/小程序/微信小程序开发.jpg">微信小程序开发</a>
+
+
+
+## Linux：
+
+<a href="../_posts/Linux/Linux内核知识.jpg">Linux内核知识</a>
 
 
 
