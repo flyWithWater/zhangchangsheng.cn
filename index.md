@@ -59,9 +59,9 @@ published: true
 
 
 
-C语言：
+### C语言：
 
-<a href="./_post/C语言.jpg">C语言</a>
+<a href="../_post/C语言.jpg">C语言</a>
 
 
 
