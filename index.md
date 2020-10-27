@@ -3,6 +3,10 @@ layout: home
 published: true
 ---
 
+博客文章列表                   <a href="about.md">关于</a>
+
+<a href="C语言.jpg">C 语言</a>
+
 ## Java
 
 ### 对象：
@@ -59,13 +63,19 @@ published: true
 
 
 
-### C语言：
+## C语言：
 
 <a href="../_post/C语言.jpg">C语言</a>
 
 
 
-## Android
+## Android:
+
+
+
+
+
+## IOS:
 
 
 
