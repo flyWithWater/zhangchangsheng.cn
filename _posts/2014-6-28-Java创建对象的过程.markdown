@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Java 创建对象的过程
+date:   2014-6-28 15:07:25 +0800
+categories: Java
+
+typora-root-url: ../../zcsblog
+---
+
+![img](/assets/Java/创建对象的过程.jpg)

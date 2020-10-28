@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全区域"
+date:   2014-12-1 13:01:13 +0800
+categories: Java
+
+typora-root-url: ../../zcsblog
+---
+
+![img](/assets/Java/HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全区域.jpg)

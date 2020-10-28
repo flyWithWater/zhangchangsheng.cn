@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Linux内核知识"
+date:   2019-7-19 00:52:01 +0800
+categories: Linux
+
+typora-root-url: ../../zcsblog
+---
+
+<img src="/assets/Linux/Linux内核知识.jpg" alt="img" style="zoom:200%;" />

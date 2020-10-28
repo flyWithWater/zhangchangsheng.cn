@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Java内存模型"
+date:   2015-4-28 19:07:25 +0800
+categories: Java
+
+typora-root-url: ../../zcsblog
+---
+
+![img](/assets/Java/Java内存模型.jpg)

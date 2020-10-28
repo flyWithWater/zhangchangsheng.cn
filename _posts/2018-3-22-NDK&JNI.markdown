@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "NDK&JNI"
+date:   2018-3-22 22:48:01 +0800
+categories: Android
+
+typora-root-url: ../../zcsblog
+---
+
+<img src="/assets/NDK JNI.jpg" alt="img" style="zoom:200%;" />

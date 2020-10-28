@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "属性动画"
+date:   2018-9-19 12:17:25 +0800
+categories: Android
+
+typora-root-url: ../../zcsblog
+---
+
+<img src="/assets/Android/属性动画.jpg" alt="img" style="zoom:150%;" />

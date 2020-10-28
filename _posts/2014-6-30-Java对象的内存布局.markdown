@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Java 对象的内存布局"
+date:   2014-6-30 20:04:34 +0800
+categories: Java
+
+typora-root-url: ../../zcsblog
+---
+
+![img](/assets/Java/对象的内存布局.jpg)

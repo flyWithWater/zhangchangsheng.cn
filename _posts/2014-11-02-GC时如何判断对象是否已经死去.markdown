@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "GC时如何判断对象是否已经死去"
+date:   2014-11-02 20:27:14 +0800
+categories: Java
+
+typora-root-url: ../../zcsblog
+---
+
+![img](/assets/Java/如何判断对象是否已经死去.jpg)
+
