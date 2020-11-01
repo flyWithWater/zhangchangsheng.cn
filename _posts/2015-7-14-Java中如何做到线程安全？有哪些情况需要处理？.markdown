@@ -8,3 +8,5 @@ typora-root-url: ../../zcsblog
 ---
 
 ![img](/assets/Java/线程安全性.jpg)
+
+来自于 《Java并发编程实战》 一书

@@ -7,4 +7,5 @@ categories: IOS
 typora-root-url: ../../zcsblog
 ---
 
-<img src="/assets/IOS/IOS App.jpg" alt="img" style="zoom:200%;" />
+<img src="/assets/IOS/IOS App.jpg" alt="IOS App" style="zoom:200%;" />
+

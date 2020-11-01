@@ -8,3 +8,7 @@ typora-root-url: ../../zcsblog
 ---
 
 ![img](/assets/Java/Java内存模型.jpg)
+
+根据  周志明-《深入理解Java虚拟机》整理 ~
+Java内存模型是理解线程安全问题原因及处理方式的基础~~~
+

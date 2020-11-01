@@ -8,3 +8,5 @@ typora-root-url: ../../zcsblog
 ---
 
 <img src="/assets/Android/android中的多线程.jpg" alt="img" style="zoom:150%;" />
+
+From  android developer
