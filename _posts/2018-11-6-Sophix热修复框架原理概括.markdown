@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sophix热修复框架原理"
+title:  "Sophix热修复框架原理概括"
 date:   2018-11-6 16:07:34 +0800
 categories: Android
 

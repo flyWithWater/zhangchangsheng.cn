@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Sophix热修复框架原理"
+date:   2018-11-12 23:09:12 +0800
+categories: Android
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+<img src="/assets/阿里Sophix  （Android热修复框架） 原理.jpg" alt="阿里Sophix  （Android热修复框架） 原理" style="zoom:200%;" />
+
+From 阿里发布的热修复白皮书~~ 
