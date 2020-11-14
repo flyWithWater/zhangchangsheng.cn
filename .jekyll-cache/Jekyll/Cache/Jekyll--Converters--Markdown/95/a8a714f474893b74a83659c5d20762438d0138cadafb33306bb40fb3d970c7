@@ -1,0 +1,53 @@
+I"�<h2 id="kafka"><strong>Kafka：</strong></h2>
+
+<p>Kafka的应用或者作用：</p>
+
+<ol>
+  <li>提供流式数据，作为流式数据源；</li>
+  <li>解耦/异步；</li>
+  <li>洪峰处理（消峰，缓冲）；</li>
+  <li>顺序性保证（单分区内是顺序性的）。</li>
+</ol>
+
+<p>kafka里面对延时任务的处理，数据结构上采用了TimingWheel的形式，时间推进利用的是JDK里面的DelayQueue，具体见下图：</p>
+
+<p><img src="/assets/kafka.png" alt="kafka	" /></p>
+
+<h2 id="zookeeper"><strong>ZooKeeper</strong></h2>
+
+<p>ZooKeeper 是一个开源的分布式协调服务，ZooKeeper框架最初是在“Yahoo!”上构建的，用于以简单而稳健的方式访问他们的应用程序。 后来，Apache ZooKeeper成为Hadoop，HBase和其他分布式框架使用的有组织服务的标准。 例如，Apache HBase使用ZooKeeper跟踪分布式数据的状态。<strong>ZooKeeper 的设计目标是将那些复杂且容易出错的分布式一致性服务封装起来，构成一个高效可靠的原语集，并以一系列简单易用的接口提供给用户使用。</strong></p>
+
+<p><strong>原语：</strong> 操作系统或计算机网络用语范畴。是由若干条指令组成的，用于完成一定功能的一个过程。具有不可分割性·即原语的执行必须是连续的，在执行过程中不允许被中断。</p>
+
+<p><strong>ZooKeeper 是一个典型的分布式数据一致性解决方案，分布式应用程序可以基于 ZooKeeper 实现诸如数据发布/订阅、负载均衡、命名服务、分布式协调/通知、集群管理、Master 选举、分布式锁和分布式队列等功能。</strong></p>
+
+<h2 id="es-elastic-search"><strong>ES： elastic search</strong></h2>
+
+<p>ELK是Elasticsearch、Logstash、Kibana三大开源框架首字母大写简称。市面上也被成为Elastic Stack。其中Elasticsearch是一个基于Lucene、分布式、通过Restful方式进行交互的近实时搜索平台框架。像类似百度、谷歌这种大数据全文搜索引擎的场景都可以使用Elasticsearch作为底层支持框架，可见Elasticsearch提供的搜索能力确实强大,市面上很多时候我们简称Elasticsearch为es。Logstash是ELK的中央数据流引擎，用于从不同目标（文件/数据存储/MQ）收集的不同格式数据，经过过滤后支持输出到不同目的地（文件/MQ/redis/elasticsearch/kafka等）。Kibana可以将elasticsearch的数据通过友好的页面展示出来，提供实时分析的功能。</p>
+
+<p>通过上面对ELK简单的介绍，我们知道了ELK字面意义包含的每个开源框架的功能。市面上很多开发只要提到ELK能够一致说出它是一个日志分析架构技术栈总称，但实际上ELK不仅仅适用于日志分析，它还可以支持其它任何数据分析和收集的场景，日志分析和收集只是更具有代表性。并非唯一性。</p>
+
+<h3 id="ftsfull-text-seach-全文检索"><strong>FTS:Full Text Seach 全文检索；</strong></h3>
+
+<p>全文检索是从文本或数据库中，不限定数据字段，自由地搜索出消息的技术。</p>
+
+<p>运行全文检索任务的程序，一般称作搜索引擎，它可以将用户随意输入的文字从数据库中找到匹配的内容。</p>
+
+<p>移动端的实现方式：</p>
+
+<p>iOS/Android SQLite全文检索——FTS (full text search) ,SQLite3或者4自带英文的分词器，但是如果处理中文的话，需要额外引入或者实现分词器；</p>
+
+<h2 id="lucene"><strong>Lucene</strong></h2>
+
+<p>Lucene是apache下的一个开放源代码的全文检索引擎工具包（提供了Jar包，实现全文检索的类库）。它提供了完整的查询引擎和索引引擎，部分文本分析引擎。Lucene的目的是为软件开发人员提供一个简单易用的工具包，以方便地在目标系统中实现全文检索的功能。</p>
+
+<p>注意：Lucene只是一个引擎，只是一个工具包，如果使用Lucene开发全文检索功能，要记住<strong>Lucene是不能单独运行的</strong>。</p>
+
+<p>Lucene实现全文检索的流程</p>
+
+<p>索引和搜索流程图</p>
+
+<p>索引和搜索流程图如下：</p>
+
+<p><img src="/assets/520181241695.png" alt="520181241695" /></p>
+:ET
