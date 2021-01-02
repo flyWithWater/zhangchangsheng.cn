@@ -4,9 +4,11 @@ title:  "性能优化"
 date:   2018-6-7 21:38:01 +0800
 categories: Android
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/Android/性能优化.jpg" alt="img" style="zoom:200%;" />
+![性能优化](/assets/Android/性能优化.jpg)
 
-From  胡凯's blog && android developer site
+
+
+这些优化的方向，是Android 官方提出来的各种优化项，实际操作中具有很强的指导意义，是每一个Android开发者都应该了解的；

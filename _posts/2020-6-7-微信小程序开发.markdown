@@ -4,7 +4,7 @@ title:  "微信小程序开发"
 date:   2020-6-7 10:29:51 +0800
 categories: 小程序
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/小程序/微信小程序开发.jpg)

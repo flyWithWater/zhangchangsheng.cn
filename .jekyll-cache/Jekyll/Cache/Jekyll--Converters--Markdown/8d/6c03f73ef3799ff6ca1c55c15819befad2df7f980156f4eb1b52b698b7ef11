@@ -1,0 +1,23 @@
+I"x<p><img src="/assets/Android/触摸事件传递机制.jpg" alt="img" style="zoom:150%;" /></p>
+
+<p>以上，关于触摸事件的传递机制（根据 <a href="https://hencoder.com/">扔物线</a> 的讲解），我们暂且 称为【View体系触摸事件处理】；</p>
+
+<p>除此之外，平常与应用层开发者相关的点儿还有:</p>
+
+<p>Activity -onUserInteraction()</p>
+
+<p>​			-dispatchTouchEvent(MotionEvent ev)</p>
+
+<p>​			-onTouchEvent(MotionEvent event)</p>
+
+<p>View -OnTouchListener的onTouch(View v, MotionEvent event)</p>
+
+<p><strong>整体的事件处理流程：</strong></p>
+
+<p>整体的触摸事件的流程，是用户触摸屏幕后，会从硬件层开始通过 InputEventReceiver.dispatchTouchEvent()等一系列操作，调用到Activity的dispatchTouchEvent(MotionEvent ev) 方法，如果是down事件，则先回调Activity的onUserInteraction()【开发者可以重写onUserInteraction(）对notification进行处理等】，然后，会调用PhoneWindow—-&gt;DecorView—-&gt;ViewGroup的 dispatchTouchEvent()等按照上面的流程处理，如果所有的VIew都没有处理事件，那么事件最后会交给 Activity的 onTouchEvent(MotionEvent event) 来处理；</p>
+
+<p><strong>那么，View -OnTouchListener的onTouch(View v, MotionEvent event)呢？</strong></p>
+
+<p>在【View体系触摸事件处理】中，如果 View的enable状态为true，并且设置了OnTouchListener，那么，就会回调其的onTouchListener的onTouch(View v, MotionEvent event)方法，如果onTouch方法中已经消费了事件，则不再 调用当前View的onTouchEvent(MotionEvent event)方法来处理事件；</p>
+
+:ET

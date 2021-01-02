@@ -4,9 +4,8 @@ title:  "属性动画"
 date:   2018-9-19 12:17:25 +0800
 categories: Android
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 <img src="/assets/Android/属性动画.jpg" alt="img" style="zoom:150%;" />
 
-From [扔物线](https://hencoder.com/) ,借助他的博客内容，更加全面的梳理了一遍~~
