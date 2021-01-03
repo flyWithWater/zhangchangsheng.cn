@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "大数据相关概念漫谈"
+title:  "大数据相关"
 date:   2019-6-12 21:47:00 +0800
 categories: 大数据
 
