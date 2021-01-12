@@ -4,10 +4,10 @@ title:  "JVM类加载"
 date:   2014-12-10 19:57:30 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/JVM类加载.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书整理~
+
 注意：加载、验证、准备、初始化、卸载，这几个过程并不是完成一个之后再开始另一个，而是仅仅按照这个顺序开始~~

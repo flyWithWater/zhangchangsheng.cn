@@ -4,7 +4,7 @@ title:  "Sophix热修复框架原理概括"
 date:   2018-11-6 16:07:34 +0800
 categories: Android
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 <img src="/assets/Android/Sophix热修复框架原理.jpg" alt="img" style="zoom:200%;" />

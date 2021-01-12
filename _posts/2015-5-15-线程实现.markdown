@@ -4,10 +4,10 @@ title:  "线程实现"
 date:   2015-5-15 22:02:14 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/线程实现.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书~
+
 Hotspot的JVM在同一OS平台的不同版本中实现不同，在不同OS平台的同一个版本也是基于不同的OS支持构建的（感觉这句就是废话呢~）；

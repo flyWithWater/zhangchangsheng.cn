@@ -4,9 +4,10 @@ title:  "JVM运行时内存分区"
 date:   2014-8-30 21:00:45 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+ 
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/JVM运行时内存.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书~
+ 

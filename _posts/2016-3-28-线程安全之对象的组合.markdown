@@ -4,9 +4,8 @@ title:  "线程安全之对象的组合"
 date:   2016-3-28 14:21:11 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 <img src="/assets/Java/对象的组合.jpg" alt="img" style="zoom:150%;" />
 
-from  《Java并发编程实战》

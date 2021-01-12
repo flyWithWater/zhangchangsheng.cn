@@ -4,7 +4,7 @@ title:  "C语言"
 date:   2016-9-18 18:52:01 +0800
 categories: Android
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 <img src="/assets/C语言.jpg" alt="img" style="zoom:200%;" />

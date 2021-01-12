@@ -4,9 +4,8 @@ title:  "自定义View"
 date:   2018-10-12 11:07:25 +0800
 categories: Android
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 <img src="/assets/Android/自定义View.jpg" alt="img" style="zoom:150%;" />
 
-From [扔物线](https://hencoder.com/)

@@ -4,9 +4,8 @@ title:  Java 创建对象的过程
 date:   2014-6-28 15:07:25 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/创建对象的过程.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书~

@@ -4,9 +4,8 @@ title:  "垃圾收集算法"
 date:   2014-11-19  14:10:33 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/垃圾收集算法.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书~

@@ -4,9 +4,9 @@ title:  "GC时如何判断对象是否已经死去"
 date:   2014-11-02 20:27:14 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+ 
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/如何判断对象是否已经死去.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书~

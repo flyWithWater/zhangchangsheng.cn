@@ -4,9 +4,8 @@ title:  "垃圾收集器（以JDK7 Update 14为例）"
 date:   2014-11-19 15:02:09 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/垃圾收集器（以JDK7 Update 14为例）.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书，更多内容请购买正版书籍~哈哈

@@ -4,12 +4,12 @@ title:  "Java中的线程安全分类和基本实现"
 date:   2015-7-2 21:27:01 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/线程安全.jpg)
 
-这个线程安全的分类，解释了为什么我们经常一边说Vector或者HashTable是线程安全的，又一边要避免一些API的使用“陷阱”~~~
+这个线程安全的分类，就解释了为什么我们经常一边说Vector或者HashTable是线程安全的，又一边要竭力避免一些API的使用“陷阱”~~~
 
-根据  周志明-《深入理解Java虚拟机》一书 整理~
+
 

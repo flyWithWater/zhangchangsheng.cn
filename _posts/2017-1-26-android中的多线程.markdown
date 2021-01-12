@@ -4,9 +4,8 @@ title:  "android中的多线程"
 date:   2017-1-26 22:05:15 +0800
 categories: Android
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 <img src="/assets/Android/android中的多线程.jpg" alt="img" style="zoom:150%;" />
 
-From  android developer

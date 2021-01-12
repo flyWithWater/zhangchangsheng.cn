@@ -7,5 +7,5 @@ categories: Android
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![apk 大小优化](/assets/Android/apk 大小优化.png)
+![apk 大小优化](/Users/zcs/Desktop/project_space/blog/flywithwater.github.io/assets/Android/apk 大小优化.png)
 

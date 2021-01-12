@@ -4,9 +4,9 @@ title:  "HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全
 date:   2014-12-1 13:01:13 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全区域.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书整理所得~
+

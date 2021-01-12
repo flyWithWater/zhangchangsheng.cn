@@ -4,7 +4,7 @@ title:  "RxJava"
 date:    2017-12-2 15:32:08 +0800
 categories: Android
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/RxJava/RxJava.jpg)

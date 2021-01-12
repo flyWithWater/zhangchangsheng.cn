@@ -4,9 +4,10 @@ title:  "Java 对象的内存布局"
 date:   2014-6-30 20:04:34 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/对象的内存布局.jpg)
 
-根据  周志明-《深入理解Java虚拟机》一书~
+
+

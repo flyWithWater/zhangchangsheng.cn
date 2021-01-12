@@ -7,7 +7,7 @@ categories: Android
 typora-root-url: ../../flywithwater.github.io
 ---
 
-因为磁盘I/O很耗时，所以，I/O部分的总体原则是：
+因为磁盘I/O很耗时，所以，I/O部分的总体优化原则是：
 
 ​	 能不磁盘I/O就不磁盘I/O，必须磁盘I/O就尽量顺序读取，且视情况实现并行I/O和异步I/O；
 

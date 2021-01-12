@@ -4,9 +4,8 @@ title:  "Java中如何做到线程安全？有哪些情况需要处理？"
 date:   2015-7-14 22:57:10 +0800
 categories: Java
 
-typora-root-url: ../../zcsblog
+typora-root-url: ../../flywithwater.github.io
 ---
 
 ![img](/assets/Java/线程安全性.jpg)
 
-来自于 《Java并发编程实战》 一书
