@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Linux中的内存部分"
+date:   2020-9-6 17:12:55 +0800
+categories: Linux
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+Linux中的内存部分如下：
+
+![file_system](/assets/Linux/memory_knowledge.jpg)
+
+
+
+ Android中的Low-memory killer 是Linux内核中原来就有的；
+
+另外，由于Android中去掉了内存交换这部分，改用了内存压缩区，所以，在内存达到内存水位线触发kswapd后的处理和Linux中有一些不同；
+

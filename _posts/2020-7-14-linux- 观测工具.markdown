@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Linux观测工具"
+date:   2020-7-14 20:55:36 +0800
+categories: Linux
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+Linux中的观测工具
+
+![file_system](/assets/Linux/观测工具.jpg)
+
+
+
+需要注意的是，以上是Linux系统中可用的观测工具，由于Android系统内核是基于Linux内核做过裁剪的，并且，也并不会同步保持更新，所以具体的工具在Android上是否可用还需要验证；
+
+
+

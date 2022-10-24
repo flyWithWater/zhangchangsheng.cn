@@ -1,0 +1,9 @@
+I"y<p>Linux中的内存部分如下：</p>
+
+<p><img src="/assets/Linux/memory_knowledge.jpg" alt="file_system" /></p>
+
+<p>Android中的Low-memory killer 是Linux内核中原来就有的；</p>
+
+<p>另外，由于Android中去掉了内存交换这部分，改用了内存压缩区，所以，在内存达到内存水位线触发kswapd后的处理和Linux中有一些不同；</p>
+
+:ET

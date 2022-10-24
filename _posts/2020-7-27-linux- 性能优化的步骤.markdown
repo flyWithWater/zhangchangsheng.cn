@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Linux上应用程序的性能优化"
+date:   2020-7-27 18:49:26 +0800
+categories: Linux
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+
+
+![file_system](/assets/Linux/improve_application_software_performance.jpg)
+
+
+
+
+

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Linux文件系统"
+date:   2020-11-13 21:59:29 +0800
+categories: Linux
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+Linux中的文件系统概览如下：
+
+![file_system](/assets/Linux/file_system.jpg)
+
+
+
+
+
