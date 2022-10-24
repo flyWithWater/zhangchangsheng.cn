@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Linux操作系统简介"
+date:   2020-7-1 19:32:18 +0800
+categories: Linux
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+Linux简介
+
+![file_system](/assets/Linux/操作系统.jpg)
+
+
+

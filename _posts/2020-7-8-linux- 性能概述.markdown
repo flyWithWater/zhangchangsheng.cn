@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Linux性能总结概览"
+date:   2020-7-8 18:41:13 +0800
+categories: Linux
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+Linux中性能方面的基础知识总结如下：
+
+![file_system](/assets/Linux/性能概述.jpg)
+
+
+性能调整，越靠近工作执行（上层）的地方，效果越显著，但是，进行观测的话，大多还是使用底层的系统工具来观测，会更简单；
+
+
+
