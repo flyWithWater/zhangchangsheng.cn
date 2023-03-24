@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Flutter资源管理"
+date:   2021-3-16 22:59:42 +0800
+categories: Flutter
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+![4-资源（图片、配置、字体、三方组件）管理](/assets/Flutter/4-资源（图片、配置、字体、三方组件）管理.jpg)
+
+
+

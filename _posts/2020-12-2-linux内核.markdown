@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Linux内核"
+date:   2020-12-2 19:34:29 +0800
+categories: Linux
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+Linux内核：
+
+![Linux内核知识](/assets/Linux/Linux内核知识.jpg)
+
+
+

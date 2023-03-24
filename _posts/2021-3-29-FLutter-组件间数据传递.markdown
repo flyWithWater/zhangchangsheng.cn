@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Flutter组件间数据传递"
+date:   2021-3-29 23:11:52 +0800
+categories: Flutter
+
+typora-root-url: ../../flywithwater.github.io
+---
+
+![5-组件间数据传递](/assets/Flutter/5-组件间数据传递.jpg)
+
+
+
