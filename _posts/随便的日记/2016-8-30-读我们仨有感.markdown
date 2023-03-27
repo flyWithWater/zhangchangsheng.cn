@@ -1,8 +1,15 @@
 ---
+
 layout: post
-title:  "《我们仨》读后感"
-date:   2016-8-30 22:26:25 +0800
-categories: 非技术
+read_time: true
+show_date: true
+title: "《我们仨》读后感"
+date:  2016-8-30 22:26:25 +0800
+img: posts/20160830/we_three_person_icon.webp
+tags: []
+category: 随笔
+author: cs
+description: "《我们仨》读后感"
 
 typora-root-url: ../../zcsblog
 ---

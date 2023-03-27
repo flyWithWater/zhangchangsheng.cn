@@ -1,10 +1,17 @@
 ---
+
 layout: post
-title:  "C语言"
-date:   2016-9-18 18:52:01 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "C语言"
+date: 2016-9-18 18:52:01 +0800
+img: posts/20210402/post7-header.webp
+tags: [Android,C]
+category: Android
+author: cs
+description: "C语言"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/C语言.jpg" alt="img" style="zoom:200%;" />
+<img src="/assets/img/posts/C语言.jpg" alt="img" style="zoom:200%;" />

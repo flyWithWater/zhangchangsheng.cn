@@ -1,13 +1,20 @@
 ---
+
 layout: post
-title:  "性能优化"
-date:   2018-6-7 21:38:01 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "性能优化"
+date:  2018-6-7 21:38:01 +0800
+img: posts/20210402/post7-header.webp
+tags: [Android,Performance Improving]
+category: Android
+author: cs
+description: "性能优化"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![性能优化](/assets/Android/性能优化.jpg)
+![性能优化](/assets/img/posts/Android/性能优化.jpg)
 
 
 

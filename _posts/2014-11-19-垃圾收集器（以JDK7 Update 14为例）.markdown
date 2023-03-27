@@ -1,11 +1,18 @@
 ---
+
 layout: post
-title:  "垃圾收集器（以JDK7 Update 14为例）"
-date:   2014-11-19 15:02:09 +0800
-categories: Java
+read_time: true
+show_date: true
+title: "JDK的垃圾收集器"
+date:  2014-11-19 15:02:09 +0800
+img: posts/20210402/post7-header.webp
+tags: [Java,JVM,GC]
+category: Java
+author: cs
+description: "JDK的垃圾收集器"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![img](/assets/Java/垃圾收集器（以JDK7 Update 14为例）.jpg)
+![img](/assets/img/posts/Java/垃圾收集器（以JDK7 Update 14为例）.jpg)
 

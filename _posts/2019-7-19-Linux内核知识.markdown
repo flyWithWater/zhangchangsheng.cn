@@ -1,10 +1,17 @@
 ---
+ 
 layout: post
-title:  "Linux内核知识"
-date:   2019-7-19 00:52:01 +0800
-categories: Linux
+read_time: true
+show_date: true
+title: "Linux内核知识"
+date:  2019-7-19 00:52:01 +0800
+img: posts/20210402/post7-header.webp
+tags: [Linux]
+category: Linux
+author: cs
+description: "Linux内核知识"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/Linux/Linux内核知识.jpg" alt="img" style="zoom:200%;" />
+<img src="/assets/img/posts/Linux/Linux内核知识.jpg" alt="img" style="zoom:200%;" />

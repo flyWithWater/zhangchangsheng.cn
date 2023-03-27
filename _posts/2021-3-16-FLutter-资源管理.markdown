@@ -1,13 +1,20 @@
 ---
+
 layout: post
-title:  "Flutter资源管理"
-date:   2021-3-16 22:59:42 +0800
-categories: Flutter
+read_time: true
+show_date: true
+title: "Flutter资源管理"
+date: 2021-3-16 22:59:42 +0800
+img: posts/20210402/post7-header.webp
+tags: [Flutter]
+category: Flutter
+author: zhangchangsheng
+description: "Flutter资源管理"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![4-资源（图片、配置、字体、三方组件）管理](/assets/Flutter/4-资源（图片、配置、字体、三方组件）管理.jpg)
+![4-资源（图片、配置、字体、三方组件）管理](/assets/img/posts/Flutter/4-资源（图片、配置、字体、三方组件）管理.jpg)
 
 
 

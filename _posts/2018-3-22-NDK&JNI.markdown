@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "NDK&JNI"
-date:   2018-3-22 22:48:01 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "NDK&JNI"
+date: 2018-3-22 22:48:01 +0800
+img: posts/20210402/post7-header.webp
+tags: [Android,NDK,JNI]
+category: Android
+author: cs
+description: "NDK&JNI"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/NDK JNI.jpg" alt="img" style="zoom:200%;" />
+<img src="/assets/img/posts/NDK JNI.jpg" alt="img" style="zoom:200%;" />

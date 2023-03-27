@@ -1,13 +1,21 @@
 ---
+
 layout: post
-title:  "触摸事件传递机制"
-date:   2018-9-01 21:04:10 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "触摸事件传递机制"
+date:  2018-9-01 21:04:10 +0800
+img: posts/20210402/post7-header.webp
+tags: [Android]
+category: Android
+author: cs
+description: "触摸事件传递机制"
+
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/Android/触摸事件传递机制.jpg" alt="img" style="zoom:150%;" />
+<img src="/assets/img/posts/Android/触摸事件传递机制.jpg" alt="img" style="zoom:150%;" />
 
 以上，关于触摸事件的传递机制（根据 [扔物线](https://hencoder.com/) 的讲解），我们暂且 称为【View体系触摸事件处理】；
 

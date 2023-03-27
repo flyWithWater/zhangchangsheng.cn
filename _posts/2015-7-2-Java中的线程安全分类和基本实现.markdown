@@ -1,13 +1,20 @@
 ---
+
 layout: post
-title:  "Java中的线程安全分类和基本实现"
-date:   2015-7-2 21:27:01 +0800
-categories: Java
+read_time: true
+show_date: true
+title: "Java中的线程安全分类和基本实现"
+date: 2015-7-2 21:27:01 +0800
+img: posts/20210402/post7-header.webp
+tags: [Java,Thread Safe]
+category: Java
+author: cs
+description: "Java中的线程安全分类和基本实现"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![img](/assets/Java/线程安全.jpg)
+![img](/assets/img/posts/Java/线程安全.jpg)
 
 这个线程安全的分类，就解释了为什么我们经常一边说Vector或者HashTable是线程安全的，又一边要竭力避免一些API的使用“陷阱”~~~
 

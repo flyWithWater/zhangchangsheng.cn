@@ -1,12 +1,18 @@
 ---
-layout: post
-title:  "GC时如何判断对象是否已经死去"
-date:   2014-11-02 20:27:14 +0800
-categories: Java
 
- 
+layout: post
+read_time: true
+show_date: true
+title: "GC时如何判断对象是否已经死去"
+date:  2014-11-02 20:27:14 +0800
+img: posts/20210402/post7-header.webp
+tags: [Java,JVM,GC]
+category: Java
+author: cs
+description: "GC时如何判断对象是否已经死去"
+
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![img](/assets/Java/如何判断对象是否已经死去.jpg)
+![img](/assets/img/posts/Java/如何判断对象是否已经死去.jpg)
 

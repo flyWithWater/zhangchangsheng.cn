@@ -1,8 +1,14 @@
 ---
 layout: post
-title:  "HTTPS原理"
-date:   2017-9-20 16:09:19 +0800
-categories: https
+read_time: true
+show_date: true
+title: "HTTPS原理"
+date: 2017-9-20 16:09:19 +0800
+img: posts/20210402/post7-header.webp
+tags: [Net,https]
+category: https
+author: cs
+description: "HTTPS原理"
 
 typora-root-url: ../../flywithwater.github.io
 ---
@@ -218,11 +224,11 @@ Base64的用途：
 
 数字签名的签名方式：
 
-![https-1](/assets/images/https-1.png)
+![https-1](/assets/img/posts/images/https-1.png)
 
 数字签名的校验方式：
 
-![https-2](/assets/images/https-2.png)
+![https-2](/assets/img/posts/images/https-2.png)
 
 作用：
 数字签名 可以验证发送者的身份和数据完整性。
@@ -244,7 +250,7 @@ Base64的用途：
 
 数字证书 也称为 电子证书，类似于身份证，也是另外一种形式的身份认证，用于标识网络中的用户身份。
 
-![https-3](/assets/images/https-3.png)
+![https-3](/assets/img/posts/images/https-3.png)
 
 
 
@@ -290,7 +296,7 @@ Base64的用途：
 
 
 下面看下百度的数字证书：
-![https-4](/assets/images/https-4.png)
+![https-4](/assets/img/posts/images/https-4.png)
 
 颁发者？verisign
 
@@ -305,11 +311,11 @@ Base64的用途：
 
 证书签发的过程：
 
-![https-5](/assets/images/https-5.png)
+![https-5](/assets/img/posts/images/https-5.png)
 
 证书校验的过程：
 
-![https-6](/assets/images/https-6.png)
+![https-6](/assets/img/posts/images/https-6.png)
 
 证书验证
 
@@ -317,13 +323,13 @@ Base64的用途：
 
 观察下当当网的证书链：
 
-![https-7](/assets/images/https-7.png)
+![https-7](/assets/img/posts/images/https-7.png)
 
 
 
 要验证当当网登录页面的证书是否可信需要这样验证：
 
-![https-8](/assets/images/https-8.png)
+![https-8](/assets/img/posts/images/https-8.png)
 
 这样就形成了一条信任的依赖链，最后终结于根证书。根证书是一份特殊的证书，它的签发者是它本身，下载安装根证书就标明对该根证书及其所签发的证书都表示信任。所以，用户在使用数字证书前必须先安装颁发该证书的根证书。
 
@@ -339,7 +345,7 @@ Base64的用途：
 
 Windows 7上受信任的根证书列表如下
 
-![https-9](/assets/images/https-9.png)
+![https-9](/assets/img/posts/images/https-9.png)
 
 常见的SSL证书种类
 

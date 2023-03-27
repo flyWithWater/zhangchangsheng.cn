@@ -1,13 +1,21 @@
 ---
+
+
 layout: post
-title:  "Java并发的基础构建模块"
-date:   2016-5-21 20:49:10 +0800
-categories: Java
+read_time: true
+show_date: true
+title: "Java并发的基础构建模块"
+date: 2016-5-21 20:49:10 +0800
+img: posts/20210402/post7-header.webp
+tags: [Java,Thread Safe]
+category: Java
+author: cs
+description: "Java并发的基础构建模块"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![img](/assets/Java/Java并发的基础构建模块.jpg)
+![img](/assets/img/posts/Java/Java并发的基础构建模块.jpg)
 
 
 

@@ -1,12 +1,19 @@
 ---
+
 layout: post
-title:  "HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全区域"
-date:   2014-12-1 13:01:13 +0800
-categories: Java
+read_time: true
+show_date: true
+title: "HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全区域"
+date:  2014-12-1 13:01:13 +0800
+img: posts/20210402/post7-header.webp
+tags: [Java,JVM]
+category: Java
+author: cs
+description: "HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全区域"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![img](/assets/Java/HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全区域.jpg)
+![img](/assets/img/posts/Java/HotSpot垃圾收集算法实现之 枚举根节点、安全点、安全区域.jpg)
 
 

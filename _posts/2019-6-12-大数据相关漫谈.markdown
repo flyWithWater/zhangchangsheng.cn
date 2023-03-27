@@ -1,8 +1,15 @@
 ---
+
 layout: post
-title:  "大数据相关"
-date:   2019-6-12 21:47:00 +0800
-categories: 大数据
+read_time: true
+show_date: true
+title: "大数据相关"
+date:  2019-6-12 21:47:00 +0800
+img: posts/20210402/post7-header.webp
+tags: [Big Data]
+category: Big Data
+author: cs
+description: "大数据相关"
 
 typora-root-url: ../../flywithwater.github.io
 ---
@@ -20,7 +27,7 @@ Kafka的应用或者作用：
 
  kafka里面对延时任务的处理，数据结构上采用了TimingWheel的形式，时间推进利用的是JDK里面的DelayQueue，具体见下图：
 
-![kafka	](/assets/kafka.png)
+![kafka	](/assets/img/posts/kafka.png)
 
 ## **ZooKeeper**
 
@@ -64,4 +71,4 @@ Lucene实现全文检索的流程
 
 索引和搜索流程图如下： 
 
-![520181241695](/assets/520181241695.png)
+![520181241695](/assets/img/posts/520181241695.png)

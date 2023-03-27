@@ -1,11 +1,18 @@
 ---
+
 layout: post
-title:  "性能优化--启动时间性能优化"
-date:   2018-5-7 15:51:01 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "性能优化--启动时间性能优化"
+date: 2018-5-7 15:51:01 +0800
+img: posts/20210402/post7-header.webp
+tags: [Performance Improving,Android]
+category: Android
+author: cs
+description: "性能优化--启动时间性能优化"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/Android/性能优化--启动时间性能优化.jpg" alt="img" style="zoom:150%;" />
+<img src="/assets/img/posts/Android/性能优化--启动时间性能优化.jpg" alt="img" style="zoom:150%;" />
 

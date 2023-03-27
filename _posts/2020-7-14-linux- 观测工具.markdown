@@ -1,15 +1,22 @@
 ---
-layout: post
-title:  "Linux观测工具"
-date:   2020-7-14 20:55:36 +0800
-categories: Linux
+ 
 
+layout: post
+read_time: true
+show_date: true
+title: "Linux观测工具"
+date:  2020-7-14 20:55:36 +0800
+img: posts/20210402/post7-header.webp
+tags: [Linux]
+category: Linux
+author: cs
+description: "Linux观测工具"
 typora-root-url: ../../flywithwater.github.io
 ---
 
 Linux中的观测工具
 
-![file_system](/assets/Linux/观测工具.jpg)
+![file_system](/assets/img/posts/Linux/观测工具.jpg)
 
 
 

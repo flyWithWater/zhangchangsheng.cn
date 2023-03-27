@@ -1,8 +1,15 @@
 ---
+
 layout: post
-title:  "android-性能优化-I/O存储优化"
-date:   2019-4-11 22:31:49 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "android-性能优化-I/O存储优化"
+date:  2019-4-11 22:31:49 +0800
+img: posts/20210402/post7-header.webp
+tags: [Android,Performance Improving]
+category: Android
+author: cs
+description: "android-性能优化-I/O存储优化"
 
 typora-root-url: ../../flywithwater.github.io
 ---
@@ -13,5 +20,5 @@ typora-root-url: ../../flywithwater.github.io
 
 具体见下图：
 
-![Android-IO](/assets/Android/Android-IO.png)
+![Android-IO](/assets/img/posts/Android/Android-IO.png)
 

@@ -1,8 +1,17 @@
 ---
+
+
 layout: post
-title:  "Kafka的ZeroCopy的实现原理"
-date:   2019-4-19 22:09:59 +0800
-categories: 大数据
+read_time: true
+show_date: true
+title: "Kafka的ZeroCopy的实现原理"
+date:  2019-4-19 22:09:59 +0800
+img: posts/20210402/post7-header.webp
+tags: [Big Data,ZeroCopy]
+category: Big Data
+author: cs
+description: "Kafka的ZeroCopy的实现原理"
+
 
 typora-root-url: ../../flywithwater.github.io
 ---
@@ -14,7 +23,7 @@ ZeroCopy，或者叫零拷贝，是Linux里面的一个技术，支持零拷贝�
 近年来大火的Kafka，它的高效读写数据部分，也使用到了零拷贝；我们先看个kafka对零拷贝的使用的一个整体情况，见下图：
 
 
-![Kafka-ZeroCopy的原理](/assets/Kafka-ZeroCopy的原理.jpg)
+![Kafka-ZeroCopy的原理](/assets/img/posts/Kafka-ZeroCopy的原理.jpg)
 
 下面，我们详细介绍相关的情况；
 
@@ -44,7 +53,7 @@ DMA出现之前，各种数据传输工作都需要CPU，特别浪费。但是�
 
 4、第四次：将socket buffer的数据，copy到网卡，由网卡进行网络传输（DMA）。
 
-<img src="/assets/images/一般的读数据发送数据.jpg" alt="一般的读数据发送数据" style="zoom:50%;" />
+<img src="/assets/img/posts/images/一般的读数据发送数据.jpg" alt="一般的读数据发送数据" style="zoom:50%;" />
 
 然后，我们下面再看下使用零拷贝（sendFile/ Java：FileChannel.transforTo() ）之后的流程：
 

@@ -1,10 +1,17 @@
 ---
+
 layout: post
-title:  "Android图形框架"
-date:   2019-2-21 21:39:42 +0800
-categories: android
+read_time: true
+show_date: true
+title: "Android图形框架"
+date:  2019-2-21 21:39:42 +0800
+img: posts/20210402/post7-header.webp
+tags: [Android,Framework]
+category: Android
+author: cs
+description: "Android图形框架"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/Android/Android的绘制系统框架.png" alt="Android的绘制系统框架" style="zoom:200%;" />
+<img src="/assets/img/posts/Android/Android的绘制系统框架.png" alt="Android的绘制系统框架" style="zoom:200%;" />

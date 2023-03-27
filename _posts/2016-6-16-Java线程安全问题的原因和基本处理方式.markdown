@@ -1,13 +1,21 @@
 ---
+
 layout: post
-title:  "Java线程安全问题的原因以及基本处理方式"
-date:   2016-6-16 21:05:34 +0800
-categories: Java
+read_time: true
+show_date: true
+title: "Java线程安全问题的原因以及基本处理方式"
+date: 2016-6-16 21:05:34 +0800
+img: posts/20210402/post7-header.webp
+tags: [Java,Thread Safe]
+category: Java
+author: cs
+description: "Java线程安全问题的原因以及基本处理方式"
+
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/Java/线程安全问题的原因和基本处理方式.jpg" alt="线程安全问题的原因和基本处理方式" style="zoom:400%;" />
+<img src="/assets/img/posts/Java/线程安全问题的原因和基本处理方式.jpg" alt="线程安全问题的原因和基本处理方式" style="zoom:400%;" />
 
 
 

@@ -1,13 +1,20 @@
 ---
+
 layout: post
-title:  "Flutter-单线程模型、异步、多线程实现"
-date:   2021-10-5 14:52:12 +0800
-categories: Flutter
+read_time: true
+show_date: true
+title: "Flutter-单线程模型、异步、多线程实现"
+date:  2021-10-5 14:52:12 +0800
+img: posts/20211005/thread_single_multiple_icon.webp
+tags: [Flutter]
+category: Flutter
+author: cs
+description: "Flutter-单线程模型、异步、多线程实现"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![8-Flutter的单线程模型、异步、多线程实现](/assets/Flutter/8-Flutter的单线程模型、异步、多线程实现.jpg)
+![8-Flutter的单线程模型、异步、多线程实现](/assets/img/posts/Flutter/8-Flutter的单线程模型、异步、多线程实现.jpg)
 
 
 

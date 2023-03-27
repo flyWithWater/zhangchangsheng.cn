@@ -1,10 +1,17 @@
 ---
+
 layout: post
-title:  "RxJava"
-date:    2017-12-2 15:32:08 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "RxJava"
+date: 2017-12-2 15:32:08 +0800
+img: posts/20210402/post7-header.webp
+tags: [Android]
+category: Android
+author: cs
+description: "RxJava"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![img](/assets/RxJava/RxJava.jpg)
+![img](/assets/img/posts/RxJava/RxJava.jpg)

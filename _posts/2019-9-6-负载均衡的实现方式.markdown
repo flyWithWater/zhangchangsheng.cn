@@ -1,11 +1,18 @@
 ---
+
 layout: post
-title:  "负载均衡的实现方式"
-date:   2019-9-6 19:49:23 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "负载均衡的实现方式"
+date:  2019-9-6 19:49:23 +0800
+img: posts/20210402/post7-header.webp
+tags: [Net]
+category: Net
+author: cs
+description: "负载均衡的实现方式"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![负载均衡网络技术架构](/assets/负载均衡网络技术架构.jpg)
+![负载均衡网络技术架构](/assets/img/posts/负载均衡网络技术架构.jpg)
 

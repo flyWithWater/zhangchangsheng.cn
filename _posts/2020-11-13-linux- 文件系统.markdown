@@ -1,15 +1,21 @@
 ---
 layout: post
-title:  "Linux文件系统"
-date:   2020-11-13 21:59:29 +0800
-categories: Linux
+read_time: true
+show_date: true
+title: "Linux文件系统"
+date: 2020-11-13 21:59:29 +0800
+img: posts/20210402/post7-header.webp
+tags: [Linux]
+category: Linux
+author: cs
+description: "Linux文件系统"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
 Linux中的文件系统概览如下：
 
-![file_system](/assets/Linux/file_system.jpg)
+![file_system](/assets/img/posts/Linux/file_system.jpg)
 
 
 

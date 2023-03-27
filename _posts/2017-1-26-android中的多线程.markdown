@@ -1,11 +1,18 @@
 ---
+
 layout: post
-title:  "android中的多线程"
-date:   2017-1-26 22:05:15 +0800
-categories: Android
+read_time: true
+show_date: true
+title: "android中的多线程"
+date: 2017-1-26 22:05:15 +0800
+img: posts/20210402/post7-header.webp
+tags: [Android]
+category: Android
+author: cs
+description: "android中的多线程"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-<img src="/assets/Android/android中的多线程.jpg" alt="img" style="zoom:150%;" />
+<img src="/assets/img/posts/Android/android中的多线程.jpg" alt="img" style="zoom:150%;" />
 

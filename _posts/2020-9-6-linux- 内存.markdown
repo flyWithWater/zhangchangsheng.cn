@@ -1,15 +1,23 @@
 ---
+
 layout: post
-title:  "Linux中的内存部分"
-date:   2020-9-6 17:12:55 +0800
-categories: Linux
+read_time: true
+show_date: true
+title: "Linux中的内存管理"
+date: 2020-9-6 17:12:55 +0800
+img: posts/20210402/post7-header.webp
+tags: [Linux]
+category: Linux
+author: cs
+description: "Linux中的内存管理"
+
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
 Linux中的内存部分如下：
 
-![file_system](/assets/Linux/memory_knowledge.jpg)
+![file_system](/assets/img/posts/Linux/memory_knowledge.jpg)
 
 
 

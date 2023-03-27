@@ -1,13 +1,20 @@
 ---
+
 layout: post
-title:  "JVM类加载"
-date:   2014-12-10 19:57:30 +0800
-categories: Java
+read_time: true
+show_date: true
+title: "JVM类加载"
+date:  2014-12-10 19:57:30 +0800
+img: posts/20210402/post7-header.webp
+tags: [Java,JVM]
+category: Java
+author: cs
+description: "JVM类加载"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
-![img](/assets/Java/JVM类加载.jpg)
+![img](/assets/img/posts/Java/JVM类加载.jpg)
 
 
 注意：加载、验证、准备、初始化、卸载，这几个过程并不是完成一个之后再开始另一个，而是仅仅按照这个顺序开始~~

@@ -1,8 +1,14 @@
 ---
 layout: post
-title:  "每一个程序员都应该知道的延迟时间"
-date:   2017-10-12 20:43:19 +0800
-categories: other
+read_time: true
+show_date: true
+title: "每一个程序员都应该知道的延迟时间"
+date: 2017-10-12 20:43:19 +0800
+img: posts/20210402/post7-header.webp
+tags: [other,Performance Improving]
+category: other
+author: cs
+description: "每一个程序员都应该知道的延迟时间"
 
 typora-root-url: ../../flywithwater.github.io
 ---
@@ -13,5 +19,5 @@ typora-root-url: ../../flywithwater.github.io
 
 下面将今年的延迟时间截图如下：
 
-![2017_latency_numbers](/assets/images/2017_latency_numbers.jpg)
+![2017_latency_numbers](/assets/img/posts/images/2017_latency_numbers.jpg)
 

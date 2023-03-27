@@ -1,13 +1,21 @@
 ---
+
+
 layout: post
-title:  "让数据驱动增长"
-date:   2022-4-18 19:31:36 +0800
-categories: 业务
+read_time: true
+show_date: true
+title: "让数据驱动增长"
+date:  2022-4-18 19:31:36 +0800
+img: posts/20220418/user_increase.webp
+tags: [Growing]
+category: Growing
+author: cs
+description: "让数据驱动增长"
 
 typora-root-url: ../../flywithwater.github.io
 ---
 
 
 
-![让数据驱动增长](/assets/让数据驱动增长.jpg)
+![让数据驱动增长](/assets/img/posts/让数据驱动增长.jpg)
 
