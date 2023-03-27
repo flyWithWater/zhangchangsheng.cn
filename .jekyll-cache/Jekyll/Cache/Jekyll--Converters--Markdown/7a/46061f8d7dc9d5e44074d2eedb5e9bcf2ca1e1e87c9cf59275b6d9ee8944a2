@@ -1,5 +1,0 @@
-I"�<p><img src="/assets/Java/线程安全.jpg" alt="img" /></p>
-
-<p>这个线程安全的分类，就解释了为什么我们经常一边说Vector或者HashTable是线程安全的，又一边要竭力避免一些API的使用“陷阱”~~~</p>
-
-:ET
